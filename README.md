@@ -1,1 +1,1 @@
-This is a template repo for a devcontianer to use with a iCESugar FPGA. Toolchain is installed in `.devcontainer/postCreateCommand.sh`. The here is a RGB led blinky taken from https://zenembed.com/ice40
+This is a template repo for a devcontainer to use with a iCESugar FPGA. Toolchain is installed in `.devcontainer/postCreateCommand.sh`. The here is a RGB led blinky taken from https://zenembed.com/ice40
